@@ -18,6 +18,7 @@ struct Carta {
     unsigned long int populacao;
     //Área em km2
     float area;
+    double pib;
     //Quantidade de pontos turísticos
     int pontos_turisticos;
 };
